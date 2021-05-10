@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [空闲教室本地化查询](#%E7%A9%BA%E9%97%B2%E6%95%99%E5%AE%A4%E6%9C%AC%E5%9C%B0%E5%8C%96%E6%9F%A5%E8%AF%A2)
+  - [目录结构](#%E7%9B%AE%E5%BD%95%E7%BB%93%E6%9E%84)
+  - [使用](#%E4%BD%BF%E7%94%A8)
+  - [说明](#%E8%AF%B4%E6%98%8E)
+  - [最后](#%E6%9C%80%E5%90%8E)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # 空闲教室本地化查询
 
 ![avatar](https://img.shields.io/badge/license-MIT-blue)
